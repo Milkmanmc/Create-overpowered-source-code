@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "create_overpowered:block/ore",
+    "particle": "create_overpowered:block/ore"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,11 @@
+{
+  "the_last_one": {
+    "subtitle": "subtitles.the_last_one",
+    "sounds": [
+      {
+        "name": "create_overpowered:the-last-fight",
+        "stream": true
+      }
+    ]
+  }
+}

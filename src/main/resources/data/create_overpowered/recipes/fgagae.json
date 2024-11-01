@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "item": "create_overpowered:moraisn_crystal"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "create_overpowered:sticky_moraisn_coating"
+    }
+  ]
+}

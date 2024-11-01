@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_axe"
+  },
+  "result": {
+    "item": "create_overpowered:moraisn_coated_netherite_axe"
+  },
+  "template": {
+    "item": "create_overpowered:moraisn_coated_nethertie_upgrade_smithing_template"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_boots"
+  },
+  "result": {
+    "item": "create_overpowered:moraisn_couted_netherite_armor_boots"
+  },
+  "template": {
+    "item": "create_overpowered:moraisn_coated_nethertie_upgrade_smithing_template"
+  }
+}

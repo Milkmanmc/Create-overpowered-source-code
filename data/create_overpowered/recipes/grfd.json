@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    {
+      "item": "create_overpowered:sticky_moraisn_coating"
+    },
+  ],
+  "results": [
+    {   
+      "item": "create_overpowered:moraisn_coated_nethertie_upgrade_smithing_template"
+    }
+  ]
+}

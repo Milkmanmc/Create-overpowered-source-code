@@ -1,0 +1,18 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:red_sandstone"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "item": "create_overpowered:stale_redstone_powder"
+    },
+    {
+      "chance": 1,
+      "item": "create_overpowered:stale_redstone_powder"
+    }
+  ]
+}

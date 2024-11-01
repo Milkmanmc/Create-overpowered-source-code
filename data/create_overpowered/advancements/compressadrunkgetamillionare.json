@@ -1,0 +1,42 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "create_overpowered:rough_diamond"
+    },
+    "title": {
+      "translate": "advancements.compressadrunkgetamillionare.title"
+    },
+    "description": {
+      "translate": "advancements.compressadrunkgetamillionare.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "compressadrunkgetamillionare_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "create_overpowered:rough_diamond"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "create_overpowered:sanding_rough_diamond"
+    ]
+  }
+}

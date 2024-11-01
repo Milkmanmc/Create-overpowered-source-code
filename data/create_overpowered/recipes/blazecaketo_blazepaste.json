@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "create:blaze_cake"
+    }
+  ],
+  "results": [
+    {
+      "amount": 50,
+      "fluid": "create_overpowered:blaze_paste"
+    },
+    {
+      "item": "create:blaze_cake_base"	
+    }
+  ]
+}

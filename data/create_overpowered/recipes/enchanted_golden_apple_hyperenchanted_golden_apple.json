@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    {
+      "fluid": "create_enchantment_industry:hyper_experience",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "create_overpowered:hyper_enchanted_golden_apple"
+    }
+  ]
+}

@@ -4,10 +4,9 @@ license="All Rights Reserved"
 
 [[mods]]
 modId="create_overpowered"
-version="2.1"
+version="2.3"
 displayName="Create Overpowered"
 displayURL="https://mcreator.net"
-logoFile="logo.png"
 credits="Milkman-creator"
 authors="Milkman"
 description="Create Overpowered is a addon to create adding overpowered things"
